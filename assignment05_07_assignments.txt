@@ -1,0 +1,10 @@
+1, description, prime numbers, deadline, 1.10
+2, description, fibonacci sequence, deadline, 1.12
+3, description, palindrom, deadline, 13.11
+4, description, lee's algorithm, deadline, 14.11
+5, description, snake game, deadline, 15.11
+6, description, common divisor, deadline, 5.12
+7, description, conversion in base 2, deadline, 10.12
+8, description, conversion in base 16, deadline, 15.12
+9, description, conversion from base 7 in base 3, deadline, 21.12
+10, description, adition in a given base, deadline, 30.12

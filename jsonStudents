@@ -1,0 +1,405 @@
+{
+	"students":[
+{
+		"name": "Cazac Alexandru",
+		 "id": "1",
+		"group" :"915"
+},{
+		"name": "Firea Zalmoxis",
+		 "id": "2",
+		"group" :"911"
+},{
+		"name": "Firea Alexandru",
+		 "id": "3",
+		"group" :"915"
+},{
+		"name": "Niga Zalmoxis",
+		 "id": "4",
+		"group" :"916"
+},{
+		"name": "Vancea Escanor",
+		 "id": "5",
+		"group" :"919"
+},{
+		"name": "Dobrincu Alexandru",
+		 "id": "6",
+		"group" :"916"
+},{
+		"name": "Iacob Nadia",
+		 "id": "7",
+		"group" :"917"
+},{
+		"name": "Iacob Cristina",
+		 "id": "8",
+		"group" :"914"
+},{
+		"name": "Firea Cristina",
+		 "id": "9",
+		"group" :"914"
+},{
+		"name": "Dobrincu Nadia",
+		 "id": "10",
+		"group" :"916"
+},{
+		"name": "Siret Alexandru",
+		 "id": "11",
+		"group" :"916"
+},{
+		"name": "Niga Zalmoxis",
+		 "id": "12",
+		"group" :"915"
+},{
+		"name": "Dobrincu Cristina",
+		 "id": "13",
+		"group" :"920"
+},{
+		"name": "Niga Elisabeta",
+		 "id": "14",
+		"group" :"913"
+},{
+		"name": "Firea Elisabeta",
+		 "id": "15",
+		"group" :"919"
+},{
+		"name": "Dobrincu Ioana",
+		 "id": "16",
+		"group" :"919"
+},{
+		"name": "Oprea Elisabeta",
+		 "id": "17",
+		"group" :"916"
+},{
+		"name": "Atanasoae Escanor",
+		 "id": "18",
+		"group" :"916"
+},{
+		"name": "Niga Alexandru",
+		 "id": "19",
+		"group" :"920"
+},{
+		"name": "Niga Leonidas",
+		 "id": "20",
+		"group" :"915"
+},{
+		"name": "Firea Cristina",
+		 "id": "21",
+		"group" :"914"
+},{
+		"name": "Atanasoae Ioana",
+		 "id": "22",
+		"group" :"915"
+},{
+		"name": "Firea Alexandru",
+		 "id": "23",
+		"group" :"916"
+},{
+		"name": "Vancea Nadia",
+		 "id": "24",
+		"group" :"919"
+},{
+		"name": "Siret Zalmoxis",
+		 "id": "25",
+		"group" :"913"
+},{
+		"name": "Siret Leonidas",
+		 "id": "26",
+		"group" :"912"
+},{
+		"name": "Firea Cosmin",
+		 "id": "27",
+		"group" :"915"
+},{
+		"name": "Siret Escanor",
+		 "id": "28",
+		"group" :"918"
+},{
+		"name": "Dobrincu Greta",
+		 "id": "29",
+		"group" :"919"
+},{
+		"name": "Volschi Leonidas",
+		 "id": "30",
+		"group" :"916"
+},{
+		"name": "Iacob Leonidas",
+		 "id": "31",
+		"group" :"913"
+},{
+		"name": "Cazac Leonidas",
+		 "id": "32",
+		"group" :"920"
+},{
+		"name": "Atanasoae Greta",
+		 "id": "33",
+		"group" :"912"
+},{
+		"name": "Oprea Alexandru",
+		 "id": "34",
+		"group" :"916"
+},{
+		"name": "Iacob Greta",
+		 "id": "35",
+		"group" :"917"
+},{
+		"name": "Vancea Alexandru",
+		 "id": "36",
+		"group" :"911"
+},{
+		"name": "Dobrincu Cosmin",
+		 "id": "37",
+		"group" :"914"
+},{
+		"name": "Firea Alexandru",
+		 "id": "38",
+		"group" :"918"
+},{
+		"name": "Atanasoae Elisabeta",
+		 "id": "39",
+		"group" :"911"
+},{
+		"name": "Niga Nadia",
+		 "id": "40",
+		"group" :"920"
+},{
+		"name": "Dobrincu Escanor",
+		 "id": "41",
+		"group" :"920"
+},{
+		"name": "Vancea Escanor",
+		 "id": "42",
+		"group" :"913"
+},{
+		"name": "Dobrincu Greta",
+		 "id": "43",
+		"group" :"913"
+},{
+		"name": "Atanasoae Escanor",
+		 "id": "44",
+		"group" :"915"
+},{
+		"name": "Niga Cristina",
+		 "id": "45",
+		"group" :"911"
+},{
+		"name": "Siret Nadia",
+		 "id": "46",
+		"group" :"912"
+},{
+		"name": "Siret Zalmoxis",
+		 "id": "47",
+		"group" :"915"
+},{
+		"name": "Dobrincu Nadia",
+		 "id": "48",
+		"group" :"914"
+},{
+		"name": "Firea Zalmoxis",
+		 "id": "49",
+		"group" :"916"
+},{
+		"name": "Iacob Cosmin",
+		 "id": "50",
+		"group" :"917"
+},{
+		"name": "Atanasoae Ioana",
+		 "id": "51",
+		"group" :"920"
+},{
+		"name": "Dobrincu Ioana",
+		 "id": "52",
+		"group" :"914"
+},{
+		"name": "Siret Cristina",
+		 "id": "53",
+		"group" :"914"
+},{
+		"name": "Atanasoae Ioana",
+		 "id": "54",
+		"group" :"917"
+},{
+		"name": "Firea Zalmoxis",
+		 "id": "55",
+		"group" :"918"
+},{
+		"name": "Vancea Cosmin",
+		 "id": "56",
+		"group" :"919"
+},{
+		"name": "Niga Greta",
+		 "id": "57",
+		"group" :"916"
+},{
+		"name": "Firea Cristina",
+		 "id": "58",
+		"group" :"916"
+},{
+		"name": "Oprea Ioana",
+		 "id": "59",
+		"group" :"916"
+},{
+		"name": "Atanasoae Nadia",
+		 "id": "60",
+		"group" :"917"
+},{
+		"name": "Firea Leonidas",
+		 "id": "61",
+		"group" :"912"
+},{
+		"name": "Dobrincu Cosmin",
+		 "id": "62",
+		"group" :"913"
+},{
+		"name": "Siret Ioana",
+		 "id": "63",
+		"group" :"919"
+},{
+		"name": "Iacob Zalmoxis",
+		 "id": "64",
+		"group" :"912"
+},{
+		"name": "Siret Alexandru",
+		 "id": "65",
+		"group" :"912"
+},{
+		"name": "Atanasoae Escanor",
+		 "id": "66",
+		"group" :"920"
+},{
+		"name": "Cazac Ioana",
+		 "id": "67",
+		"group" :"912"
+},{
+		"name": "Niga Zalmoxis",
+		 "id": "68",
+		"group" :"913"
+},{
+		"name": "Dobrincu Zalmoxis",
+		 "id": "69",
+		"group" :"915"
+},{
+		"name": "Niga Escanor",
+		 "id": "70",
+		"group" :"915"
+},{
+		"name": "Siret Nadia",
+		 "id": "71",
+		"group" :"913"
+},{
+		"name": "Oprea Nadia",
+		 "id": "72",
+		"group" :"919"
+},{
+		"name": "Oprea Elisabeta",
+		 "id": "73",
+		"group" :"911"
+},{
+		"name": "Firea Elisabeta",
+		 "id": "74",
+		"group" :"915"
+},{
+		"name": "Cazac Zalmoxis",
+		 "id": "75",
+		"group" :"911"
+},{
+		"name": "Volschi Alexandru",
+		 "id": "76",
+		"group" :"919"
+},{
+		"name": "Niga Ioana",
+		 "id": "77",
+		"group" :"914"
+},{
+		"name": "Firea Cosmin",
+		 "id": "78",
+		"group" :"917"
+},{
+		"name": "Firea Elisabeta",
+		 "id": "79",
+		"group" :"912"
+},{
+		"name": "Niga Ioana",
+		 "id": "80",
+		"group" :"911"
+},{
+		"name": "Siret Cristina",
+		 "id": "81",
+		"group" :"920"
+},{
+		"name": "Dobrincu Greta",
+		 "id": "82",
+		"group" :"916"
+},{
+		"name": "Oprea Cosmin",
+		 "id": "83",
+		"group" :"913"
+},{
+		"name": "Siret Cosmin",
+		 "id": "84",
+		"group" :"920"
+},{
+		"name": "Volschi Greta",
+		 "id": "85",
+		"group" :"916"
+},{
+		"name": "Oprea Cosmin",
+		 "id": "86",
+		"group" :"918"
+},{
+		"name": "Atanasoae Escanor",
+		 "id": "87",
+		"group" :"912"
+},{
+		"name": "Atanasoae Cosmin",
+		 "id": "88",
+		"group" :"917"
+},{
+		"name": "Firea Zalmoxis",
+		 "id": "89",
+		"group" :"911"
+},{
+		"name": "Vancea Zalmoxis",
+		 "id": "90",
+		"group" :"920"
+},{
+		"name": "Volschi Greta",
+		 "id": "91",
+		"group" :"913"
+},{
+		"name": "Vancea Cosmin",
+		 "id": "92",
+		"group" :"914"
+},{
+		"name": "Siret Nadia",
+		 "id": "93",
+		"group" :"920"
+},{
+		"name": "Atanasoae Zalmoxis",
+		 "id": "94",
+		"group" :"914"
+},{
+		"name": "Firea Zalmoxis",
+		 "id": "95",
+		"group" :"920"
+},{
+		"name": "Siret Elisabeta",
+		 "id": "96",
+		"group" :"916"
+},{
+		"name": "Dobrincu Nadia",
+		 "id": "97",
+		"group" :"920"
+},{
+		"name": "Atanasoae Cristina",
+		 "id": "98",
+		"group" :"916"
+},{
+		"name": "Volschi Greta",
+		 "id": "99",
+		"group" :"916"
+},{
+		"name": "Firea Cosmin",
+		 "id": "100",
+		"group" :"916"
+}
+	]
+}
