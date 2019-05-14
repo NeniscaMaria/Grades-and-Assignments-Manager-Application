@@ -1,8 +1,8 @@
 # Grades-and-Assignments-Manager-Application
 
-This is n pplication that helps with the management of a number of students. You are able to manage the assignmnets the students have or will be given and their grades. It offers a console interface, as well as a GUI. 
+This is an application that helps with the management of a number of students. You are able to manage the assignmnets the students have or will be given and their grades. It offers a console interface, as well as a GUI. 
 
-Multiple ways to store your data;
+Multiple ways to store your data:
 1)permanently:-this will save the data in files
 2)temporary:-this will save the data in memory
 3)binary:-this will save the data in binary files
