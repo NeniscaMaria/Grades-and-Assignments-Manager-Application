@@ -1,6 +1,6 @@
 # Grades-and-Assignments-Manager-Application
 
-This is an application that helps with the management of a number of students. You are able to manage the assignmnets the students have or will be given and their grades. It offers a console interface, as well as a GUI. 
+This is an application that helps with the management of a number of students. You are able to manage the assignmnets the students have or will be given and their grades. It offers a console interface, as well as a GUI (created with TKInter). 
 
 Multiple ways to store your data:
 1)permanently:-this will save the data in files
