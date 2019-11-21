@@ -1,5 +1,5 @@
 # Grades-and-Assignments-Manager-Application
-
+--created during the first semester
 What I learned:
 -python basics
 -working with files
